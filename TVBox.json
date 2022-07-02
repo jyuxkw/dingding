@@ -58,6 +58,8 @@
 {"key":"csp_XBiubiubiubiu_lmys","name":"蓝莓影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/b14-libvio.js"}, 
 {"key":"csp_biubiu_特狗影视","name":"🐶特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a10-tgys.js"},
 {"key":"csp_XBiubiubiubiu_口袋影院","name":"口袋影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/b07-kdys.js"},
+{"key":"csp_XBiubiubiubiu_city","name":"city(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/city.js"},
+{"key":"csp_XBiubiubiubiu_手机看剧","name":"手机看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/b06-sjkj.js"},
 {"key":"csp_xpath_saohuotv","name":"🔥骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xxm247/freed/raw/branch/master/TVBox/MaooXP/saohuotv2.json"},
 //{"key":"csp_xpath_naifeiorg","name":"👑奈飞中文(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xxm247/freed/raw/branch/master/TVBox/MaooXB/奈菲影院.json"},
 //{"key":"csp_xpath_jbb","name":"🎁剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xxm247/freed/raw/branch/master/TVBox/MaooXP/jubaibai.json"},
