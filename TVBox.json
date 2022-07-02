@@ -27,7 +27,7 @@
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_Bttoo","name":"📚2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
-{"key":"Mayi","name":"🐞麻衣高清(SP)","type":3,"api":"csp_Mayi","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"Mayi","name":"🐞麻衣高清(SP)","type":3,"api":"csp_Mayi","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Bttoo","name":"🐞Bttoo(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_PHP_WMKK","name":"🛴完美看看","type":1,"api":"http://api.flypotato.xyz/wmkk.php","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"csp_Nbys","name":"📺泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
