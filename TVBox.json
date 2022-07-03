@@ -30,24 +30,8 @@
 {"key":"csp_Bttoo","name":"🍷两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"spider_Bttoo","name":"🍷2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
-    {
-      "key": "libvio",
-      "name": "libvio🐞",
-      "type": 1,
-      "api": "http://pandown.pro/maoys/libvio.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "lezhu",
-      "name": "乐猪🐞",
-      "type": 1,
-      "api": "http://pandown.pro/maoys/lezhu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+{"key":"libvio","name":"📚libvio","type":1,"api":"http://pandown.pro/maoys/libvio.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"lezhu","name":"🐖乐猪","type":1,"api":"http://pandown.pro/maoys/lezhu.php","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"Libvio","name":"📚Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Kmys","name": "🐱酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Olevod","name":"✨Olevod(SP)","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
@@ -101,8 +85,8 @@
 {"key":"csp_biubiu_斗鱼","name":"🐬斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xxm247/freed/raw/branch/master/TVBox/MaooXB/斗鱼.json"},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xxm247/freed/raw/branch/master/TVBox/MaooXP/huya2.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxm247/freed/raw/branch/master/TVBox/MaooXP/kuqimv.json"},
-{"key":"csp_xpath_猫群自维护库qiumi2","name":"球迷2🏀","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://hk1.monika.love/tvba/x/main/519-88kanqiu.json"},
-{"key":"csp_xpath_网络搜集库qiumi","name":"⚽球迷(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/516-qiumi.js"},
+{"key":"csp_xpath_猫群自维护库qiumi2","name":"🏀球迷1(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://hk1.monika.love/tvba/x/main/519-88kanqiu.json"},
+{"key":"csp_xpath_网络搜集库qiumi","name":"⚽球迷2(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/516-qiumi.js"},
 //{"key":"if101资源","name":"✈️if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 
 //{"key":"csp_Buka","name":"📒经常卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
