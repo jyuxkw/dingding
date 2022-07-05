@@ -204,6 +204,7 @@
 
 
 {"key":"csp_xpath_zxzj2","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/zxzj2.json"},
+{"key":"csp_xpath_xiangdao","name":"🦋农民影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/wchjxyzj/TVBox/raw/main/MaooXP/xiangdao.json"},
 //{"key":"csp_xpath_auete","name":"Auete影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/auete.json"},
 //{"key":"csp_xpath_ctv","name":"冲TMTV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/chongtmtv.json"},
 //{"key":"csp_xpath_汉城影院","name":"汉城影院(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/hancheng.json"},
@@ -282,7 +283,6 @@
 {"key":"csp_xpath_saohuotv","name":"🔥骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xxm247/freed/raw/branch/master/TVBox/MaooXP/saohuotv2.json"},
 //{"key":"csp_xpath_naifeiorg","name":"👑奈飞中文(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xxm247/freed/raw/branch/master/TVBox/MaooXB/奈菲影院.json"},
 //{"key":"csp_xpath_jbb","name":"🎁剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xxm247/freed/raw/branch/master/TVBox/MaooXP/jubaibai.json"},
-{"key":"csp_xpath_xiangdao","name":"🦋农民影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/wchjxyzj/TVBox/raw/main/MaooXP/xiangdao.json"},
 //{"key":"csp_xpath_dandanzan10","name":"☀️蛋蛋赞(电影)(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xxm247/freed/raw/branch/master/TVBox/MaooXP/dandanzan10.json"},
 {"key":"csp_xpath_pianku","name":"💩片库(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xxm247/freed/raw/branch/master/TVBox/MaooXP/pianku.json"},
 {"key":"csp_xpath_网络搜集源03","name":"🏠在线之家(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/zxzj.js"},        
