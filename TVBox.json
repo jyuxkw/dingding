@@ -38,7 +38,7 @@
 {"key":"csp_Bttoo","name":"🍷两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"spider_Bttoo","name":"🍷2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
-{"key":"csp_饭团","name":"🎨饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_饭团","name":"🎨饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"libvio","name":"📚libvio","type":1,"api":"http://pandown.pro/maoys/libvio.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"lezhu","name":"🐖乐猪","type":1,"api":"http://pandown.pro/maoys/lezhu.php","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"csp_Kmys","name":"🐞酷猫影视","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1 },
