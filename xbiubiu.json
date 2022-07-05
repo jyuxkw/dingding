@@ -1,6 +1,6 @@
 //首页的栏目可以自己设置标题名称和图片，key不用改动，是列表页的识别标志，每个栏目的顺序也可以随意排序。
 {"Home": [
-{"key":"APP","title":"APP调试","pic":"https://epg.112114.xyz/bingimg"},
+{"key":"APP","title":"APP调试","pic":"http://image.coolapk.com/picture/2022/0702/08/18006987_83493901_0950_3513_380@1600x900.jpeg.m.jpg"},
 {"key":"网页","title":"网页调试","pic":"https://pic1.zhimg.com/v2-0863b14a3c54722f95148cb536ce49b0_b.jpg"},
 {"key":"采集","title":"采集调试","pic":"https://pic1.zhimg.com/v2-1c7efe59fc035c67db278cb37c1908ac_b.jpg"},
 {"key":"直播","title":"直播调试","pic":"https://pic4.zhimg.com/v2-ba98dc3c31c891a9d69ccbf45b07a107_b.jpg"},
