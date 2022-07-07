@@ -1,7 +1,7 @@
 {
 
+"spider":"https://notabug.org/dingding/wdck/raw/master/0704.jar",
 //"spider":"https://notabug.org/dingding/wdck/raw/master/qiaoji0706jh.jar",
-"spider":"https://gitea.com/yuzuonan/jiekou/raw/branch/main/QJ0706%E5%87%80%E5%8C%96%E5%8C%85.jar",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzEwMTg2MTA1MDQvcy9yYXcvYnJhbmNoL21haW4vczIuanM=" ]}]}],
