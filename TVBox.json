@@ -43,7 +43,7 @@
 {"key":"csp_XBiubiubiubiu_口袋影院","name":"🐛口袋影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/b07-kdys.js"},
 {"key":"csp_XBiubiubiubiu_city","name":"🐛city(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/city.js"},
 {"key":"csp_XBiubiubiubiu_手机看剧","name":"🐛手机看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/b06-sjkj.js"},
-{"key":"csp_Xbiubiu_tegou","name":"🐛特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://9xi4o.tk/sub/biubiu/tegou.json"},
+{"key":"csp_Xbiubiu_tegou","name":"🐛特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://9xi4o.tk/sub/biubiu/tegou.json"},
 {"key":"csp_biubiu_小强迷","name":"🐛小强迷","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/biubiu/小强迷.json"},
 {"key":"csp_biubiu_真不卡cerrd","name":"🐛真不卡2(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/biubiu/真不卡cerrd(ns).json"},
 {"key":"csp_biubiu_奇优影院ns","name":"🐛奇优影院(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/biubiu/奇优影院(ns).json"},  
