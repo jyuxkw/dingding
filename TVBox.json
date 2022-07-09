@@ -3,9 +3,10 @@
 //"spider":"https://notabug.org/dingding/wdck/raw/master/0704.jar",
 //"spider":"https://notabug.org/dingding/wdck/raw/master/qiaoji0706jh.jar",
 //"spider":"https://notabug.org/dingding/wdck/raw/master/0707.jar",
-"spider":"https://notabug.org/dingding/wdck/raw/master/pro.jar",
+//"spider":"https://notabug.org/dingding/wdck/raw/master/pro.jar",
 //"spider":"https://notabug.org/dingding/wdck/raw/master/tvbox.jar",
 //"spider":"https://notabug.org/dingding/wdck/raw/master/20220709.jar",
+"spider":"http://home.jundie.top:81/tv/TVBox.jar",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzEwMTg2MTA1MDQvcy9yYXcvYnJhbmNoL21haW4vczIuanM=" ]}]}],
