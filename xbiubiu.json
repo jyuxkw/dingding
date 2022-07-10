@@ -5910,52 +5910,6 @@
   "bflianjieqian": "rid=",
   "bflianjiehou": "\""
 },
-{ 
-  "name": "Justlive虎牙",  
-  "User": "空",  
-  "url": "http://live.yj1211.work/api/live/getRecommendByPlatform",  
-  "直接播放": "1",  
-  "横图显示": "1",  
-  "fenlei": "全部$?platform=douyu&page=#一起看$Area?platform=huya&area=一起看&page=#英雄联盟$Area?platform=huya&area=英雄联盟&page=#英雄联盟手游$Area?platform=huya&area=英雄联盟手游&page=#王者荣耀$Area?platform=huya&area=王者荣耀&page=#和平精英$Area?platform=huya&area=和平精英page=#棋牌桌游$Area?platform=huya&area=棋牌桌游&page=#欢乐斗地主$Area?platform=huya&area=欢乐斗地主&page=#体育$Area?platform=huya&area=体育&page=#美食$Area?platform=huya&area=美食&page=#颜值$Area?platform=huya&area=颜值&page=",  
-  "houzhui": "&size=20",  
-  "shifouercijiequ": "1",  
-  "jiequqian": "[",  
-  "jiequhou": "]",  
-  "jiequshuzuqian": "{",  
-  "jiequshuzuhou": "}",  
-  "tupianqian": "\"roomPic\":\"",  
-  "tupianhou": "\"",   
-  "biaotiqian": "\"roomName\":\"",  
-  "biaotihou": "\"",   
-  "lianjieqian": "\"roomId\":\"",  
-  "lianjiehou": "\"",  
-  "ljqianzhui": "http://live.yj1211.work/index/liveRoom?platform=huya&roomId=", 
-  "fubiaotiqian": "\"ownerName\":\"", 
-  "fubiaotihou": "\""
-},  
-{ 
-  "name": "Justlive哔哩",  
-  "User": "空",  
-  "url": "http://live.yj1211.work/api/live/getRecommendByPlatform",  
-  "直接播放": "1",  
-  "横图显示": "1",  
-  "fenlei": "全部$?platform=bilibili&page=#英雄联盟$Area?platform=bilibili&area=英雄联盟&page=#王者荣耀$Area?platform=bilibili&area=王者荣耀&page=#和平精英$Area?platform=bilibili&area=和平精英&page=#游戏赛事$Area?platform=bilibili&area=游戏赛事&page=",  
-  "houzhui": "&size=20",  
-  "shifouercijiequ": "1",  
-  "jiequqian": "[",  
-  "jiequhou": "]",  
-  "jiequshuzuqian": "{",  
-  "jiequshuzuhou": "}",  
-  "tupianqian": "\"roomPic\":\"",  
-  "tupianhou": "\"",   
-  "biaotiqian": "\"roomName\":\"",  
-  "biaotihou": "\"",   
-  "lianjieqian": "\"roomId\":\"",  
-  "lianjiehou": "\"",  
-  "ljqianzhui": "http://live.yj1211.work/index/liveRoom?platform=bilibili&roomId=", 
-  "fubiaotiqian": "\"ownerName\":\"", 
-  "fubiaotihou": "\""
-},   
 {
   "name": "🏄b站〔自〕嗅探慢不建议使用", 
   "url": "https://api.bilibili.com", 
