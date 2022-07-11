@@ -2,7 +2,8 @@
 
 //"spider":"https://notabug.org/dingding/wdck/raw/master/jar/qiaoji0706jh.jar",
 //"spider":"https://notabug.org/dingding/wdck/raw/master/jar/0709.jar",
-"spider":"https://notabug.org/dingding/wdck/raw/master/jar/0710.jar",
+//"spider":"https://notabug.org/dingding/wdck/raw/master/jar/0710.jar",
+"spider":"https://pan.tigerroot.cn/down.php/727c472f6f06e2958ff50fbd0c2aae21.jar&qiaoji",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzEwMTg2MTA1MDQvcy9yYXcvYnJhbmNoL21haW4vczIuanM=" ]}]}],
@@ -17,8 +18,8 @@
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Kmys","name":"🐞酷猫影视","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_Kmys","name":"🐼酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Kmys","name":"🐞酷猫","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kmys","name":"🐼酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Nfyun","name": "🎨NF云（SP）","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"低端影视","name":"超清低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_DiDuan","name":"🎬低端影视(SP)","api":"csp_DiDuan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
