@@ -180,6 +180,7 @@
 
 //备用解析是常规格式的解析
 "beiyongjiexi": [
+{"name":"小熊","url":"http://49.233.47.42:9898/jiexi222.php/parse/type1?url="},
 {"name":"parwix1","url":"https://jx.parwix.com:4433/player/?url="},
 {"name":"parwix2","url":"https://jx.parwix.com:4433/player/analysis.php?v="},
 {"name":"M117","url":"http://1.117.152.239:39000/?url="},
