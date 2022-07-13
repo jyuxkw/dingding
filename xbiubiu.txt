@@ -2,14 +2,22 @@
 
 //首页的栏目可以自己设置标题名称和图片，key不用改动，是列表页的识别标志，每个栏目的顺序也可以随意排序。
 {"Home": [
-{"key":"APP","title":"APP调试","pic":"http://1.117.152.239:39000/tupian.php?text=APP"},
-{"key":"网页","title":"XBiubiu","pic":"http://1.117.152.239:39000/tupian.php?text=网页"},
-{"key":"采集","title":"采集调试","pic":"http://1.117.152.239:39000/tupian.php?text=采集"},
-{"key":"直播","title":"直播调试","pic":"http://1.117.152.239:39000/tupian.php?text=直播"},
-{"key":"历史","title":"历史记录","pic":"http://1.117.152.239:39000/tupian.php?text=历史"},
-{"key":"收藏","title":"我的收藏","pic":"http://1.117.152.239:39000/tupian.php?text=收藏"},
-{"key":"推送","title":"远程推送","pic":"http://1.117.152.239:39000/tupian.php?text=推送"},
-{"key":"待添加","title":"待添加","pic":"http://1.117.152.239:39000/tupian.php?text=待添加"}
+{"key":"APP","title":"APP调试","pic":"http://image.coolapk.com/picture/2022/0702/08/18006987_83493901_0950_3513_380@1600x900.jpeg.m.jpg"},
+{"key":"网页","title":"网页调试","pic":"https://pic1.zhimg.com/v2-0863b14a3c54722f95148cb536ce49b0_b.jpg"},
+{"key":"采集","title":"采集调试","pic":"https://pic1.zhimg.com/v2-1c7efe59fc035c67db278cb37c1908ac_b.jpg"},
+{"key":"直播","title":"直播调试","pic":"https://pic4.zhimg.com/v2-ba98dc3c31c891a9d69ccbf45b07a107_b.jpg"},
+{"key":"历史","title":"历史记录","pic":"https://pic4.zhimg.com/v2-544a06af71a0de850ae21432d277f5cf_b.jpg"},
+{"key":"收藏","title":"我的收藏","pic":"https://pic3.zhimg.com/v2-71daae9a4aef25ce7a01606571b2365a_b.jpg"},
+{"key":"推送","title":"远程推送","pic":"https://pic3.zhimg.com/v2-f9cad62fcd47b79e7345f2bcf49b281e_b.jpg"},
+{"key":"待添加","title":"待添加","pic":"https://pic1.zhimg.com/v2-e77da20418dc6cf1b534ac030705a6fc_b.jpg"}
+//{"key":"APP","title":"APP调试","pic":"http://1.117.152.239:39000/tupian.php?text=APP"},
+//{"key":"网页","title":"XBiubiu","pic":"http://1.117.152.239:39000/tupian.php?text=网页"},
+//{"key":"采集","title":"采集调试","pic":"http://1.117.152.239:39000/tupian.php?text=采集"},
+//{"key":"直播","title":"直播调试","pic":"http://1.117.152.239:39000/tupian.php?text=直播"},
+//{"key":"历史","title":"历史记录","pic":"http://1.117.152.239:39000/tupian.php?text=历史"},
+//{"key":"收藏","title":"我的收藏","pic":"http://1.117.152.239:39000/tupian.php?text=收藏"},
+//{"key":"推送","title":"远程推送","pic":"http://1.117.152.239:39000/tupian.php?text=推送"},
+//{"key":"待添加","title":"待添加","pic":"http://1.117.152.239:39000/tupian.php?text=待添加"}
 ],
 
 //填写APP接口，支持以下5种接口格式。
