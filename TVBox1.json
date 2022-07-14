@@ -1,5 +1,7 @@
 {
-  "spider": "https://gitea.com/habao260/ZY/raw/branch/main/jar/custom_spider_220713.jar",
+//"spider": "https://gitea.com/habao260/ZY/raw/branch/main/jar/custom_spider_220713.jar",
+  
+"spider":"https://pan.tigerroot.cn/down.php/727c472f6f06e2958ff50fbd0c2aae21.jar&qiaoji",
 
   "sites": [
     {"key":"csp_Ysgc","name":"🎾Ysgc(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
