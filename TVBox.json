@@ -49,7 +49,7 @@
 {"key":"csp_biubiu_真不卡cerrd","name":"🐛真不卡(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dxa/1/raw/branch/main/%E7%9C%9F%E4%B8%8D%E5%8D%A1cerrd%28ns%29.json"},           
 {"key":"csp_XBiubiubiubiu_lezhu","name":"🐛乐猪TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/b13-lezhu.js"},
 {"key":"csp_biubiu_爱港剧","name":"🐛爱港剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dxa/1/raw/branch/main/%E7%88%B1%E6%B8%AF%E5%89%A7.json"}, 
-{"key":"csp_biubiu_麻衣高清","name":"🐛麻衣高清(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zyk212/TLX/raw/branch/master/麻衣高清.json"},
+//{"key":"csp_biubiu_麻衣高清","name":"🐛麻衣高清(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zyk212/TLX/raw/branch/master/麻衣高清.json"},
 {"key":"csp_XBiubiubiubiu_蓝光影视","name":"🐛蓝光影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/b02-lgys.js"}, 
 {"key":"csp_XBiubiubiubiu_lmys","name":"🐛蓝莓影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/b14-libvio.js"}, 
 {"key":"csp_biubiu_特狗影视","name":"🐛特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a10-tgys.js"},
