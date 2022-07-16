@@ -1,7 +1,8 @@
 {
 //"spider": "https://gitea.com/jingcai08/mao/raw/branch/main/jar/diejia716.jar",
-"spider":"https://notabug.org/dingding/wdck/raw/master/jar/diejia2.jar",
+//"spider":"https://notabug.org/dingding/wdck/raw/master/jar/diejia2.jar",
 //"spider":"https://notabug.org/dingding/wdck/raw/master/jar/qiaoji0716.jar",
+"spider":"https://notabug.org/dingding/wdck/raw/master/jar/tsqj.jar",
 
 "sites": [
 {"key": "csp_BBB"        ,"name":"🐞bilibili","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
