@@ -20,7 +20,7 @@
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_完美看看","name":"🐞完美看看(SP)","type":3,"api":"csp_Wmkk","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,""spider":"https://wp.wangshi520.com/down.php/8fe09cee9e4cf48eb956d77065b68852.jar"},
+{"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"spider":"https://wp.wangshi520.com/down.php/8fe09cee9e4cf48eb956d77065b68852.jar"},
 //{"key":"293视频","name":"🐞293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"Kmys","name":"🐞酷猫","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kmys","name":"🐼酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
