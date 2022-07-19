@@ -1,12 +1,9 @@
 {
-//"spider":"https://gitea.com/jingcai08/mao/raw/branch/main/jar/diejia716.jar",
-//"spider":"https://notabug.org/dingding/wdck/raw/master/jar/diejia2.jar",
+
 //"spider":"https://notabug.org/dingding/wdck/raw/master/jar/qiaoji0716.jar",
-//"spider":"https://notabug.org/dingding/wdck/raw/master/jar/tsqj.jar",
 //"spider":"https://notabug.org/dingding/wdck/raw/master/jar/1_t3qj.jar",
-//"spider":"https://notabug.org/dingding/wdck/raw/master/jar/top91.jar",
-//"spider":"https://notabug.org/dingding/wdck/raw/master/jar/top92.jar",
-"spider":"https://notabug.org/dingding/wdck/raw/master/jar/top9292.jar",
+//"spider":"https://notabug.org/dingding/wdck/raw/master/jar/top9292.jar",
+"spider":"https://notabug.org/dingding/wdck/raw/master/jar/0707pro.jar",
 
 "sites": [
 {"key": "csp_BBB"        ,"name":"🐞bilibili","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
