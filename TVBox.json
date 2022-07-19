@@ -43,6 +43,7 @@
 {"key":"csp_Bttoo","name":"🍷两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_Tkys","name":"🐞天空影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","spider":"https://wp.wangshi520.com/down.php/8fe09cee9e4cf48eb956d77065b68852.jar"},
 //{"key":"csp_QQ","name":"🐞腾讯(SP)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_MGTV","name":"🐞芒果(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"追剧喵","name":"🐞追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
