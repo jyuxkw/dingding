@@ -11,11 +11,11 @@
 
 "sites":[
 
-{"key":"csp_BBB","name":"🅱哔哩哔哩(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"},
+//{"key":"csp_BBB","name":"🅱哔哩哔哩(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"},
 //{"key":"Bili","name":"🥇B站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bili.json"},
 //{"key":"csp_Blijc","name":"🖼假窗·氛围·白噪声","type":3,"api":"csp_Blijc","searchable": 0,"quickSearch":0,"filterable":0,"spider":"https://gitea.com/wangxilin/1/raw/branch/main/6.jar"},
 //{"key":"csp_BBB","name":"🅱哔哩套餐(B站)","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_BBB","name":"🅱️哔哩套餐(B站)","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/dingding/wdck/raw/master/json/bili.json"},
+{"key":"csp_BBB","name":"🅱️哔哩套餐(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/dingding/wdck/raw/master/json/bili.json"},
 {"key":"push_agent","name":"🍭合并推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":""}, 
 //{"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
