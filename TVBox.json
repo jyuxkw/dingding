@@ -4,7 +4,8 @@
 //"spider":"https://notabug.org/dingding/wdck/raw/master/jar/top93.jar",
 //"spider":"https://notabug.org/dingding/wdck/raw/master/jar/n3rd0730.jar",
 //"spider":"https://notabug.org/dingding/wdck/raw/master/jar/qj07302_spider.txt",
-"spider":"https://notabug.org/dingding/wdck/raw/master/jar/qj0731.jar",
+//"spider":"https://notabug.org/dingding/wdck/raw/master/jar/qj0731.jar",
+"spider":"https://notabug.org/dingding/wdck/raw/master/jar/t3qj_220731%281%29.jar",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzEwMTg2MTA1MDQvcy9yYXcvYnJhbmNoL21haW4vczIuanM=" ]}]}],
