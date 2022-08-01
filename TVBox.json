@@ -57,6 +57,7 @@
 {"key":"KanSJ_spider","name":"🗽看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"Ekan_spider","name":"🔅影视大全(SP)","api":"csp_Ekan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Tkys","name":"☁天空影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Nfyun","name":"🚘奈菲(SP)","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1,"spider":"https://gitea.com/hj620/1/raw/branch/main/6.jar"},
 //{"key":"Nfyun","name":"🎨NF云（SP）","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/wangxilin/1/raw/branch/main/6.jar"},
 //{"key":"Nfyun","name":"☁Nf云(SP)","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小熊","name":"🐻小熊TV(SP)","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://notabug.org/dingding/wdck/raw/master/jar/xxoo732.jar"},
