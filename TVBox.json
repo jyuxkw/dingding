@@ -64,7 +64,7 @@
 //{"key":"csp_Nfyun","name":"🚘奈菲(SP)","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1,"spider":"https://gitea.com/hj620/1/raw/branch/main/6.jar"},
 //{"key":"Nfyun","name":"🎨NF云（SP）","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/wangxilin/1/raw/branch/main/6.jar"},
 //{"key":"Nfyun","name":"☁Nf云(SP)","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"小熊","name":"🐻小熊TV(SP)","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://notabug.org/dingding/wdck/raw/master/jar/xxoo732.jar"},
+{"key":"小熊","name":"🐻小熊TV(SP)","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/xzbdfw/xxbox/raw/branch/main/jar/xxoo802.jar;md5;a9092f46fecbc5c2f649e3b1a3632360"},
 //{"key":"csp_Xxys","name":"🐻小熊(SP)","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1,"spider":"https://gitea.com/JQLover/Q/raw/branch/main/ts.jar"},
 //{"key":"小熊","name":"🐞小熊TV(SP)","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ","name":"🐧腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/爱芒奇.jar"},
