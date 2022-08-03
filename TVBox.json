@@ -33,7 +33,7 @@
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"zxzj","name":"🏠在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Kmys巧技","name":"Q😾酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://static01.imgkr.com/temp/caa16dd5513b418a80d25a6028c3a8c2.jpg"},
+{"key":"csp_Kmys巧技","name":"Q😾酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/jiang2022j/jmu/raw/branch/main/巧计.jar"},
 //{"key":"酷猫","name":"🐼酷猫(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Lib","name":"🚚Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,"spider":"https://gitea.com/hj620/1/raw/branch/main/6.jar"},
 {"key":"csp_LibVio","name":"🐝LibVio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
