@@ -1,0 +1,13 @@
+{  "spider":"https://gitea.com/wjj415/wjj/raw/branch/main/01.jar;md5;d3418c225503499e7a8e97b229d8d576",
+"jars":{"668":"https://gitea.com/wjj415/wjj/raw/branch/main/668.jar;md5;8c9dd15a0e5a8fa5537ab1ddabb5cfa2","qj0729":"https://gitea.com/wjj415/wjj/raw/branch/main/qj0729.jar;md5;80bbc2d2f8bd207815aa717e5a199b14","ts":""
+},
+
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
+  "sites":[   
+
+
+
+{"key":"csp_Kunyu77","name":"🥇七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},   {"key":"Smdyy_spider"        ,"name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"qj0729"},
+
+{"key":"KanSJ_spider","name":"🐞看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"qj0729"},
+{"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"qj0729"}, {"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"qj0729"},       {"key":"酷猫","name":"🐱酷猫","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"668"},
