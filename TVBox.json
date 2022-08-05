@@ -123,7 +123,7 @@
 {"key":"csp_biubiu_蓝光影院","name":"🥒蓝光影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/catvod/TVBox/MaooXB2/蓝光影院.json"},
 {"key":"csp_biubiu_干饭影视","name":"🥒干饭影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/catvod/TVBox/MaooXB2/干饭影视.json"},
 {"key":"csp_biubiu_悟空影视","name":"🥒悟空影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/catvod/TVBox/MaooXB2/悟空影视.json"},
-{"key":"csp_biubiu_打驴动漫","name":"🥒打驴动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/catvod/TVBox/MaooXB2/打驴动漫.json"},
+{"key":"打驴动漫","name":"🐎打驴动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shuyuan.miaogongzi.net/shuyuan/1659531751.json"},
 {"key":"csp_biubiu_维奇动漫","name":"🥒维奇动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/catvod/TVBox/MaooXB2/维奇动漫.json"},
 {"key":"csp_biubiu_奈落影院","name":"🥒奈落影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/catvod/TVBox/MaooXB2/奈落影院.json"},
 {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"🥒真不卡影院(不支持搜索)(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://home.jundie.top:81/catvod/TVBox/MaooXB2/真不卡影院(不支持搜索).json"},
