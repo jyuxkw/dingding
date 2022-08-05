@@ -1,7 +1,6 @@
 {
 
 "spider":"https://notabug.org/dingding/wdck/raw/master/jar/top94.jar;md5;e81f92faef9d91b908f327c02d5e0049",
-//"spider":"https://notabug.org/dingding/wdck/raw/master/jar/qj0804.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzEwMTg2MTA1MDQvcy9yYXcvYnJhbmNoL21haW4vczIuanM=" ]}]}],
 
