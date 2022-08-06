@@ -6,8 +6,10 @@
   "sites":[   
 
 
+{"key":"csp_Kunyu77","name":"🥇七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Kunyu77","name":"🥇七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},   {"key":"Smdyy_spider"        ,"name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"qj0729"},
+{"key":"Smdyy_spider","name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"qj0729"},
 
 {"key":"KanSJ_spider","name":"🐞看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"qj0729"},
-{"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"qj0729"}, {"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"qj0729"},       {"key":"酷猫","name":"🐱酷猫","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"668"},
+{"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"qj0729"}, {"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"qj0729"},       
+{"key":"酷猫","name":"🐱酷猫","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"668"},
