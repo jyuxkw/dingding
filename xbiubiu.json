@@ -20,7 +20,7 @@
 
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
-{"name":"特狗影视","url":"https://www.tegouys.com/xgapp.php/v2/"},
+{"name":"🚀特狗影视","url":"https://www.tegouys.com/xgapp.php/v2/"},
 {"name":"4k在线","url":"http://4kdog.tk/api.php/app/"},
 {"name":"913e影视","url":"http://www.913e.net/xgapp.php/v1/"},
 {"name":"U5影视","url":"https://appx.uy07.com/api.php/v1.vod"},
@@ -60,7 +60,7 @@
 
 //填写采集接口
 "caijizhan": [
-{"name":"酷云77","url":"http://api.kunyu77.com/api.php"},
+{"name":"🍇酷云77","url":"http://api.kunyu77.com/api.php"},
 {"name":"🍇就是刚刚采集","url":"http://mov.fuqizhishi.com/api.php"},
 {"name":"🍇诺讯采集","url":"http://caiji.nxflv.com/api.php"},
 {"name":"🍇天堂采集","url":"http://vipmv.cc/api.php"},
