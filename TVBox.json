@@ -101,6 +101,7 @@
 {"key":"csp_biubiu_COKEMV","name":"🥒COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/catvod/TVBox/MaooXB2/COKEMV.json"},
 {"key":"csp_biubiu_橘子tv","name":"🥒橘子(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dxa/6/raw/branch/main/jz.json"},
 {"key":"csp_biubiu_影视工厂","name":"🥒影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/catvod/TVBox/MaooXB2/影视工厂.json"},
+{"key":"茶杯狐","name":"🦊茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shuyuan.miaogongzi.net/shuyuan/1659566617.json"},
 {"key":"csp_biubiu_555电影","name":"🥒555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/catvod/TVBox/MaooXB2/555电影.json"},
 {"key":"csp_biubiu_特狗影视","name":"🥒特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/catvod/TVBox/MaooXB2/特狗影视.json"},
 {"key":"csp_XBiubiubiubiu_TV-BOX","name":"🥒TV-BOX(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_44448955/tvmovie/-/raw/master/tvbox/tvbox.txt"},
