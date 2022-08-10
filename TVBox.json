@@ -82,6 +82,7 @@
 {"key":"csp_xml___量子资源","name":"🐝量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"DYU","name":"🍀DYU","type":1,"api":"https://a.7dyu.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"小猫咪","name":" 🐈小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"csp_xpath_dandanzan10","name":"👍蛋蛋赞(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/shadowchiu/sc/raw/branch/main/TVBox/MaooXP/dandanzan10.json"},
 //{"key":"csp_n0ys","name":"🔷1090影视(SP)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 //{"key":"csp_Buka","name":"💥真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Fantuan","name":"🐼饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
