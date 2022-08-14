@@ -83,6 +83,8 @@
 {"key":"csp_xml___量子资源","name":"🐝量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"DYU","name":"🍀DYU","type":1,"api":"https://a.7dyu.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"小猫咪","name":" 🐈小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"多多","name":"多多资源","type":1,"api":"https://ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"西瓜","name":"西瓜视频","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/from/xigua","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_appys_美剧虫","name":"🐌美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
 //{"key":"csp_xpath_bdys","name":"哔嘀磁链","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/gaigai/gougou/raw/branch/main/biditd.json"},
 {"key":"快猫","name":"🥒快猫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/tae/y/raw/branch/main/x/kuaimao.json"},
