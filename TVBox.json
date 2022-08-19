@@ -1,8 +1,6 @@
 {
 
 //"spider":"https://notabug.org/dingding/wdck/raw/master/jar/top95.jar;md5;8921be63eb650abcdda701b2b84ba745",
-//"spider":"https://notabug.org/dingding/wdck/raw/master/jar/sc.jar",
-//"spider":"https://notabug.org/dingding/wdck/raw/master/jar/qhj.jar",
 //"spider":"http://刚刚.live/jar/",
 //"spider":"https://notabug.org/dingding/wdck/raw/master/jar/0819b.jar",
 "spider":"https://uujs.ml/api/v3/file/source/21114/kele.jpg?sign=_M8yPPOZCdhFE24Bo6mCdvs0ZX22NA6inkG5kn76SEA%3D%3A0",
@@ -99,9 +97,7 @@
 {"key":"小猫咪","name":" 🐈小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"多多","name":"多多资源","type":1,"api":"https://ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"西瓜","name":"西瓜视频","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/from/xigua","playUrl":"","searchable":1,"quickSearch":1},
-//{"key":"美剧虫","name":"🐌美剧虫(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.cc/api.php/v1.vod"},
-//{"key":"csp_appys_美剧虫","name":"🐌美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
-//{"key":"csp_xpath_bdys","name":"哔嘀磁链","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/gaigai/gougou/raw/branch/main/biditd.json"},
+{"key":"csp_appys_美剧虫","name":"🐞美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.cc/api.php/v1.vod"},//{"key":"csp_xpath_bdys","name":"哔嘀磁链","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/gaigai/gougou/raw/branch/main/biditd.json"},
 //{"key":"csp_biubiu_YYDS影院","name":"🥒YYDS影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/xkwjyu/jar/raw/branch/master/MaooXP/YYDS%E5%BD%B1%E9%99%A2.json"},
 {"key":"csp_biubiu_yekong","name":"🥒夜空高清(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar/tvjs/yekong.json"},
 {"key":"快猫","name":"🥒快猫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/tae/y/raw/branch/main/x/kuaimao.json"},
