@@ -21,6 +21,9 @@
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
 {"name":"🚀特狗影视","url":"https://www.tegouys.com/xgapp.php/v2/"},
+{"name":"优众影视","url":"http://121.205.88.194:7878/xgtv.php/v1/"},
+{"name":"爱影视","url":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
+{"name":"爱酷影视","url":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"}
 {"name":"4k在线","url":"http://4kdog.tk/api.php/app/"},
 {"name":"913e影视","url":"http://www.913e.net/xgapp.php/v1/"},
 {"name":"U5影视","url":"https://appx.uy07.com/api.php/v1.vod"},
