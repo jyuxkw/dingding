@@ -26,7 +26,7 @@
 {"key":"哔哩哔哩","name":"哔哩哔哩","type":1,"api":"http://cj.ioivip.xyz/api.php/provide/vod/from/bilibili","playUrl":"","searchable":1,"quickSearch":1,"categories":["B站番剧","B站国创","B站电视剧","B站电影"]},
 //{"key":"csp_BBB","name":"🅱哔哩哔哩(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"},
 //{"key":"Bili","name":"🥇B站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/dingding/wdck/raw/master/json/bili.json"},
-{"key":"csp_Blijc","name":"🖼假窗·氛围·白噪声","type":3,"api":"csp_Blijc","searchable": 0,"quickSearch":0,"filterable":0,"jar":"https://notabug.org/dingding/wdck/raw/master/jar/0819b.jar"},
+{"key":"csp_Blijc","name":"🖼假窗·氛围·白噪声","type":3,"api":"csp_Blijc","searchable": 0,"quickSearch":0,"filterable":0,"jar":"http://ww.kf666888.cn/catvod/jar/0711.jar"},
 //{"key":"csp_BBB","name":"🅱哔哩套餐(B站)","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_BBB","name":"🅱哔哩哔哩(教程)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/imbig66/tv-spider-man/raw/master/bilibili.json","jar":"https://notabug.org/imbig66/tv-spider-man/raw/master/jar/258780"},
 //{"key":"csp_BBB","name":"🅱️哔哩套餐(B站)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/dingding/wdck/raw/master/json/bili.json"},
