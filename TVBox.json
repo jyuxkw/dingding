@@ -106,6 +106,8 @@
 {"key":"小猫咪","name":" 🐈小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"多多","name":"多多资源","type":1,"api":"https://ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"西瓜","name":"西瓜视频","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/from/xigua","playUrl":"","searchable":1,"quickSearch":1},
+
+{"key":"csp_biubiu_蚂蚁4K","name":"🎬蚂蚁4K","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/20029519/tvbox/raw/branch/main/xb/蚂蚁4K.json"},
 {"key":"csp_biubiu_搜狗影院","name":"🥒搜狗影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/搜狗影院.json"},
 {"key":"csp_biubiu_阿里影视","name":"🥒阿里影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/阿里影视.json"},
 {"key":"csp_biubiu_饭团","name":"🥒饭团影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/饭团影视.json"},
