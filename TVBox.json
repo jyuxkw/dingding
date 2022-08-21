@@ -78,7 +78,7 @@
 {"key":"Nfyun","name":"🚀Nf云","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"小熊","name":"🐻小熊TV(SP)","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/xzbdfw/xxbox/raw/branch/main/jar/xxoo802.jar;md5;a9092f46fecbc5c2f649e3b1a3632360"},
 {"key":"csp_Yj1211","name":"📽️网红直播(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Anime1","name":"🌸小日本动漫(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Anime1","name":"🌸小日本动漫(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/hongdeng98/YH/raw/branch/main/Jar/0820.txt"},
 //{"key":"csp_QQ","name":"🐧腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/爱芒奇.jar"},
 //{"key":"爱奇艺","name":"🐨爱奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://wp.wangshi520.com/down.php/3c40dbcb8082364e1c416ebc3e219e6a.jar"},
 //{"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://wp.wangshi520.com/down.php/3c40dbcb8082364e1c416ebc3e219e6a.jar"},
