@@ -132,16 +132,11 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
-{"name":"解析1","url":"https://vip.byteamone.cn/api/?key=FOWGxF7kZJ51owjTTW&url="},
-{"name":"解析2","url":"http://115.231.218.97:1314/api/?key=RwOSJUQyDGtD5K2qJY&url="},
-{"name":"解析3","url":"https://json.5lp.net/json.php?url="},
-{"name":"解析4","url":"http://api.vip123kan.vip/?url="},
-{"name":"解析5","url":"https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url="},
-{"name":"解析6","url":"http://svip.nicefamily.club/home/api?type=ys&uid=769560&key=chijkrtBEGNPRWXZ35&url="},
-{"name":"解析7","url":"http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url="},
-{"name":"解析8","url":"https://jx.300ys.xyz/json/jianghu.php/?url="},
-{"name":"解析9","url":"https://jhpc.manduhu.com/j1217.php?url="},
-{"name":"解析10","url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&urI="}
+{"name":"解析1","url":"https://jisu.rongxingvr.top/api/rxm3u8.php?key=2eCcARLRUqfPeuoX3B&url="},
+{"name":"解析2","url":"http://110.42.2.115:880/analysis/json/?uid=2288&my=cilnvzELRTVWX03456&url="},
+{"name":"解析3","url":"https://jx.dgdgg.cn/api/?key=Os908eQBVXCwdvBlI7&url="},
+{"name":"解析4","url":"http://jx1920.chwain.com/home/api?type=ys&uid=87711&key=bdrsuvzBMQTVWX0567&url="},
+{"name":"解析5","url":"https://jisu.rongxingvr.top/api/?key=2eCcARLRUqfPeuoX3B&url="}
 ],
 
 //备用解析是常规格式的解析
