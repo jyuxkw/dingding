@@ -40,7 +40,7 @@
 {"key":"csp_AliPS","name":"🐱阿里喵搜+原画","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"3899d727125e4f51a248c6fc4e4dc10c"},
 {"key":"Zhaozy","name":"🍭找资源+原画(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"3899d727125e4f51a248c6fc4e4dc10c"},
 {"key":"push_agent","name":"🥇推送+原画","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"3899d727125e4f51a248c6fc4e4dc10c"},
-{"key":"t4test","name":"T4测试","type":4,"api":"https://t4.secan.icu/vod","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_XYQBiu_短视频","name":"分享短视频(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/XYQBiu.jar","ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/XYQB/分享短视频.json"},
 {"key":"360_spider","name":"📺360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
