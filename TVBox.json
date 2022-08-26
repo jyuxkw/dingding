@@ -75,7 +75,7 @@
 //{"key":"Ekan_spider","name":"🔅Ekan(SP)","api":"csp_Ekan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 //{"key":"csp_Tkys","name":"☁天空影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Nfyun","name":"🔮Nf云®神农戴也💎","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/dq0801.jar"},
-{"key":"Nfyun","name":"🚀Nf云","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+//{"key":"Nfyun","name":"🚀Nf云","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"小熊","name":"🐻小熊TV(SP)","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/xzbdfw/xxbox/raw/branch/main/jar/xxoo802.jar;md5;a9092f46fecbc5c2f649e3b1a3632360"},
 {"key":"csp_Yj1211","name":"📽️网红直播(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"🌸小日本动漫(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
