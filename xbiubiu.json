@@ -148,10 +148,10 @@
 //填写电视直播的接口链接
 "dianshizhibo": "https://shuyuan.miaogongzi.net/shuyuan/1656313536.txt",
 
-"嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a",
+"嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
 
 //填写播放地址过滤规则，中间用#号分割，不用填太多，默认的基本够用，主要是针对自定义的网站过滤的。
-"guolvdizhi": ".gif#.js#.css#rl=#.ico#.html#51.la#poster#api.php#file=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
+"guolvdizhi": ".gif#.css#.ico#.html#51.la#poster#api.php#file=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
 
 //填写网页接口内容，格式是 {网页接口1},{网页接口2},{网页接口3} 一个花括号里面就是一个自定义接口内容  用，号分割  最后一个不加，号
 "zidingyi": [
@@ -292,6 +292,26 @@
   "bflianjieqian": "page\":", 
   "bflianjiehou": ",", 
   "bfqianzhui": "?p="
+},
+{
+"name": "短视频",
+"url": "http://www.sharenice.net",
+"User": "空",
+"ua": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+"fenlei": "抖音$/douyin?page=#快手$/kuaishou?page=#微视$/weishi?page=#火山$/huoshan?page=#场库$/changku?page=#美拍$/meipai?page=#秒拍$/miaopai?page=#全民$/quanmin?page=#梨$/lishipin?page=#好兔$/haotu?page=#开眼$/kaiyan?page=",
+"houzhui": "",
+"直接播放": "1",
+"shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"cover\"",
+"jiequshuzuhou": "</a>",
+"tupianqian": "original=\"",
+"tupianhou": "\"",
+"biaotiqian": "title=\"",
+"biaotihou": "\"",
+"lianjieqian": "href=\"http://www.sharenice.net",
+"lianjiehou": "\""
 },
 {
   "name": "有声小说",
