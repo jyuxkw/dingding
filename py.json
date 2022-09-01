@@ -26,8 +26,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_zxzj.py"
-	},
-    {
+	}, {
 		"key": "py_voflix",
 		"name": "Voflix",
 		"type": 3,
@@ -36,7 +35,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://gitea.com/UndCover/PyramidStore/raw/branch/main/plugin/py_voflix.py"
-	},{
+	}, {
 		"key": "py_gimytv",
 		"name": "剧迷",
 		"type": 3,
@@ -45,7 +44,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://gitea.com/UndCover/PyramidStore/raw/branch/main/plugin/py_gimytv.py"
-	},{
+	}, {
 		"key": "py_genmov",
 		"name": "跟剧",
 		"type": 3,
