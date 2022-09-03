@@ -75,8 +75,10 @@
 ],
 
 "dianshizhibo": "https://cdn.staticaly.com/gh/tvbw/mytv/main/tv88",
+
+"嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
  
-"guolvdizhi": "player.css#url=#cnzz.com#51.la",
+"guolvdizhi": ".gif#.css#.ico#.html#51.la#poster#?url=#file=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
  
 "zidingyi": [
 {"name": "乐猪影视",
