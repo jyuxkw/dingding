@@ -30,6 +30,7 @@
 {"key":"push_agent","name":"🥇推送+原画","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"3899d727125e4f51a248c6fc4e4dc10c"},
 {"key":"T4","name":"T4爬虫","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3781469b13074e4cac1e0e7113e4fa20&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"注视","name":"注视","type":4,"api":"https://t-secan-jcesy.run.goorm.io/vod?sites=all&ali_token=3a49cf29cf20410997247c6eb4509be9&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xp_yinfans","name":"💥音范丝4K(300+)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/yinfans.json"},
 {"key":"csp_Alist1","name":"❤ Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxm247/xxm/raw/branch/master/Alist.js","jar":"https://agit.ai/xxm247/Box/raw/branch/main/custom_spider.jar"},
 //{"key":"csp_Alist22","name":"🐞Adult.Drive(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://cn.kstore.space/download/2868/jar/alist.jar","ext":"https://drive.9t.ee"},
