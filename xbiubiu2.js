@@ -465,8 +465,10 @@
 //填写电视直播的接口链接
 "dianshizhibo": "http://www.mikkk.xyz/bblive.txt",
 
+"嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
+
 //填写播放地址过滤规则，中间用#号分割，不用填太多，默认的基本够用，主要是针对自定义的网站过滤的。
-"guolvdizhi": "player.css#url=#51.la#poster#api.php#file=#auth_#cnzz.com",
+"guolvdizhi": ".gif#.css#.ico#.html#51.la#poster#?url=#file=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
 
 //填写网页接口内容，格式是 {网页接口1},{网页接口2},{网页接口3} 一个花括号里面就是一个自定义接口内容  用，号分割  最后一个不加，号
 "zidingyi": [
