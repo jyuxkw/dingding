@@ -124,6 +124,7 @@
 //{"key":"csp_Alist5","name":"🅰 Alist 5【q2版本使用】","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://pan.142856.xyz"}, 
 //{"key":"csp_Alist6","name":"🅰 Alist 6【q2版本使用】","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://alist.shenzjd.com"},
 {"key":"csp_biubiu_蚂蚁4K","name":"🎬蚂蚁4K","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/20029519/tvbox/raw/branch/main/xb/蚂蚁4K.json"},
+{"key":"csp_biubiu_极品影视","name":"极品影视(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"clan://TVBox/xb/极品影视.json"},
 {"key":"csp_biubiu_搜狗影院","name":"🥒搜狗影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/搜狗影院.json"},
 {"key":"csp_biubiu_阿里影视","name":"🥒阿里影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/阿里影视.json"},
 {"key":"csp_biubiu_饭团","name":"🥒饭团影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/饭团影视.json"},
