@@ -118,6 +118,7 @@
 {"key":"小猫咪","name":" 🐈小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"多多","name":"多多资源","type":1,"api":"https://ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"西瓜","name":"西瓜视频","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/from/xigua","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_XYQBiu_17kan","name":"🍀17kan(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.bilnn.com/api/v3/file/sourcejump/qvnd5ZHd/qmJViXxet6NTLiYNp4EjRMg2LmiiNS_ih-sQr_SaU8c*","jar":"https://pan.bilnn.cn/api/v3/file/sourcejump/lAKmoKIb/h8hJx-oJ2PTXudSz5hP5VuO5v3SCi3WQQNtspe1bY6k*"},
 {"key":"csp_XYQBiu_影视工厂","name":"🍀影视工厂显示线路名(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/影视工厂.json","jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar"},
 {"key":"csp_XYQBiu_凌云影视","name":"🍀凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/83225451/Tvbox/raw/branch/main/XYQxb/凌云影视.json"},
 {"key":"csp_XYQBiu_万能影院","name":"🍀万能影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/83225451/Tvbox/raw/branch/main/XYQxb/万能影院.json"},
