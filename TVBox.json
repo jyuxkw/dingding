@@ -113,6 +113,7 @@
 {"key":"csp_XYQBiu_橘猫资源","name":"🍀橘猫资源(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/chiguren/jar/raw/branch/main/橘猫资源.json","jar":"https://gitea.com/chiguren/jar/raw/branch/main/XYQBiu_0905.jar"},
 {"key":"csp_XYQBiu_好恐怖磁力","name":"🍀好恐怖磁力(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/haokongbuCL.json"},
 {"key":"csp_XYQBiu_dygCL","name":"🍀电影港磁力(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/dianyinggangCL.json"},
+{"key":"csp_xbb_美剧虫","name":"🍀美剧虫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/meijuchong.json"},
 {"key":"csp_biubiu_蚂蚁4K","name":"🥒蚂蚁4K","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/20029519/tvbox/raw/branch/main/xb/蚂蚁4K.json"},
 {"key":"超清影视","name":"🥒超清影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/lh2513/live/raw/branch/root/json/%E8%B6%85%E6%B8%85%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_biubiu_搜狗影院","name":"🥒搜狗影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/搜狗影院.json"},
