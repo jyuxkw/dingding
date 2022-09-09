@@ -294,6 +294,17 @@
   "bflianjiehou": ",", 
   "bfqianzhui": "?p="
 },
+{
+"name": "bili-美食",
+"url": "https://api.bilibili.com",   
+"ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36", 
+"cookie":"buvid3=123",
+"User": "空",     
+"直接播放": "0",
+"是否记录历史": "1",
+"横图显示": "1",
+"fenlei": "披萨$/x/web-interface/search/type?search_type=video&keyword=披萨&duration=0&order=pubdate&page=#火锅$/x/web-interface/search/type?search_type=video&keyword=火锅&duration=0&order=pubdate&page=#烧烤$/x/web-interface/search/type?search_type=video&keyword=烧烤&duration=0&order=pubdate&page=#烤鱼$/x/web-interface/search/type?search_type=video&keyword=烤鱼&duration=0&order=pubdate&page=#海鲜$/x/web-interface/search/type?search_type=video&keyword=海鲜&duration=0&order=pubdate&page=#津菜$/x/web-interface/search/type?search_type=video&keyword=津菜&duration=0&order=pubdate&page=#川菜$/x/web-interface/search/type?search_type=video&keyword=川菜
+&duration=0&order=pubdate&page=#湘菜$/x/web-interface/search/type?search_type=video&keyword=湘菜&duration=0&order=pubdate&page=#鲁菜$/x/web-interface/search/type?search_type=video&keyword=鲁菜&duration=0&order=pubdate&page=#苏菜$/x/web-interface/search/type?search_type=video&keyword=苏菜&duration=0&order=pubdate&page=#粤菜$/x/web-interface/search/type?search_type=video&keyword=粤菜&duration=0&order=pubdate&page=#东北菜$/x/web-interface/search/type?search_type=video&keyword=东北菜&duration=0&order=pubdate&page=#冀菜$/x/web-interface/search/type?search_type=video&keyword=冀菜&duration=0&order=pubdate&page=#豫菜$/x/web-interface/search/type?search_type=video&keyword=豫菜&duration=0&order=pubdate&page=#鄂菜$/x/web-interface/search/type?search_type=video&keyword=鄂菜&duration=0&order=pubdate&page=#本帮菜$/x/web-interface/search/type?search_type=video&keyword=本帮菜&duration=0&order=pubdate&page=#客家菜$/x/web-interface/search/type?search_type=video&keyword=客家菜&duration=0&order=pubdate&page=#赣菜$/x/web-interface/search/type?search_type=video&keyword=赣菜&duration=0&order=pubdate&page=#京菜$/x/web-interface/search/type?search_type=video&keyword=京菜&duration=0&order=pubdate&page=#浙菜$/x/web-interface/search/type?search_type=video&keyword=浙菜&duration=0&order=pubdate&page=#徽菜$/x/web-interface/search/type?search_type=video&keyword=徽菜&duration=0&order=pubdate&page=#湘菜$/x/web-interface/search/type?search_type=video&keyword=湘菜&duration=0&order=pubdate&page=#凉菜$/x/web-interface/search/type?search_type=video&keyword=凉菜&duration=0&order=pubdate&page=#蒸菜$/x/web-interface/search/type?search_type=video&keyword=蒸菜&duration=0&order=pubdate&page=#日料$/x/web-interface/search/type?search_type=video&keyword=日料
 &duration=0&order=pubdate&page=", 
 "houzhui": "",
 "shifouercijiequ": "0",
@@ -353,7 +364,8 @@
 "bfbiaotihou": "\"",
 "bflianjieqian": "page\":",
 "bflianjiehou": ",",
-"bfqianzhui": "?p="},
+"bfqianzhui": "?p="
+},
 {
   "name": "短视频",
   "url": "http://www.sharenice.net",
