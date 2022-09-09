@@ -190,6 +190,7 @@
 {"key":"csp_xpath_cokemv","name":"🦋Cokemv(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/cokemv.json"},
 {"key":"csp_xpath_喵乐","name":"🦋喵乐(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXP/喵乐.json"},
 {"key":"csp_appys_美剧虫","name":"🦋美剧虫(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/dingding/wdck/raw/master/json/meijuchong.json"},
+{"key":"csp_xpath_片吧影院","name":"🤗片吧影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXP/片吧影院.json"},
 {"key":"csp_xpath_蚂蚁影视","name":"🦋蚂蚁影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/dingding/wdck/raw/master/mayi.json"},
 {"key":"csp_xpath_ddg","name":"🦋达达龟(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/dadagui.json"},
 {"key":"csp_xpath_jbb","name":"🦋剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/jubaibai.json"},
