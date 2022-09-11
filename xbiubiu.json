@@ -1,21 +1,21 @@
 //首页的栏目可以自己设置标题名称和图片，key不用改动，是列表页的识别标志，每个栏目的顺序也可以随意排序。
 {"Home": [
-{"key":"APP","title":"APP调试","pic":"http://image.coolapk.com/picture/2022/0702/08/18006987_83493901_0950_3513_380@1600x900.jpeg.m.jpg"},
-{"key":"网页","title":"网页调试","pic":"https://pic1.zhimg.com/v2-0863b14a3c54722f95148cb536ce49b0_b.jpg"},
-{"key":"采集","title":"采集调试","pic":"https://pic1.zhimg.com/v2-1c7efe59fc035c67db278cb37c1908ac_b.jpg"},
-{"key":"直播","title":"直播调试","pic":"https://pic4.zhimg.com/v2-ba98dc3c31c891a9d69ccbf45b07a107_b.jpg"},
-{"key":"历史","title":"历史记录","pic":"https://pic4.zhimg.com/v2-544a06af71a0de850ae21432d277f5cf_b.jpg"},
-{"key":"收藏","title":"我的收藏","pic":"https://pic3.zhimg.com/v2-71daae9a4aef25ce7a01606571b2365a_b.jpg"},
-{"key":"推送","title":"远程推送","pic":"https://pic3.zhimg.com/v2-f9cad62fcd47b79e7345f2bcf49b281e_b.jpg"},
-{"key":"待添加","title":"待添加","pic":"https://pic1.zhimg.com/v2-e77da20418dc6cf1b534ac030705a6fc_b.jpg"}
-//{"key":"APP","title":"影视","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/01.jpg"},
-//{"key":"网页","title":"网页","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/02.jpg"},
-//{"key":"采集","title":"采集","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/03.jpg"},
-//{"key":"直播","title":"直播","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/04.jpg"},
-//{"key":"历史","title":"历史","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/05.jpg"},
-//{"key":"收藏","title":"收藏","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/06.jpg"},
-//{"key":"推送","title":"推送","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/07.jpg"},
-//{"key":"待添加","title":"待加","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/08.jpg"}
+//{"key":"APP","title":"APP调试","pic":"http://image.coolapk.com/picture/2022/0702/08/18006987_83493901_0950_3513_380@1600x900.jpeg.m.jpg"},
+//{"key":"网页","title":"网页调试","pic":"https://pic1.zhimg.com/v2-0863b14a3c54722f95148cb536ce49b0_b.jpg"},
+//{"key":"采集","title":"采集调试","pic":"https://pic1.zhimg.com/v2-1c7efe59fc035c67db278cb37c1908ac_b.jpg"},
+//{"key":"直播","title":"直播调试","pic":"https://pic4.zhimg.com/v2-ba98dc3c31c891a9d69ccbf45b07a107_b.jpg"},
+//{"key":"历史","title":"历史记录","pic":"https://pic4.zhimg.com/v2-544a06af71a0de850ae21432d277f5cf_b.jpg"},
+//{"key":"收藏","title":"我的收藏","pic":"https://pic3.zhimg.com/v2-71daae9a4aef25ce7a01606571b2365a_b.jpg"},
+//{"key":"推送","title":"远程推送","pic":"https://pic3.zhimg.com/v2-f9cad62fcd47b79e7345f2bcf49b281e_b.jpg"},
+//{"key":"待添加","title":"待添加","pic":"https://pic1.zhimg.com/v2-e77da20418dc6cf1b534ac030705a6fc_b.jpg"}
+{"key":"采集","title":"采集","pic":"http://img.netbian.com/file/2017/0306/40e2d32a8f9151ed26a4edc19e38a145.gif"},
+{"key":"APP","title":"APP","pic":"http://img.netbian.com/file/2016/0515/55f6bbc581d9d98bf11f83b2a985af3a.gif"},
+{"key":"直播","title":"直播","pic":"http://img.netbian.com/file/2016/0515/51665a8502270a3334631de24c7e39c0.gif"},
+{"key":"网页","title":"网页","pic":"http://img.netbian.com/file/2016/0515/a8190aec6ce2fc6adf16e7f86aa7d451.gif"},
+{"key":"历史","title":"历史","pic":"http://img.netbian.com/file/2016/0515/8c83c69d4a605e07c3af9a7e205798e6.gif"},
+{"key":"收藏","title":"收藏","pic":"http://img.netbian.com/file/2016/0515/eb19c1d2290247d5a9a1f12afca96914.gif"},
+{"key":"推送","title":"推送","pic":"http://img.netbian.com/file/2021/0324/05cb335cb19890f81dfebe638c2a6dfe.gif"},
+{"key":"轮播","title":"轮播","pic":"http://img.netbian.com/file/2016/0515/a95df86629bbf0b838b93af3788b4d72.gif"}
 ],
 
 //填写APP接口，支持以下5种接口格式。
