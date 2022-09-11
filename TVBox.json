@@ -54,6 +54,7 @@
 {"key":"csp_Kunyu77","name":"🌤酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Kunyu77","name":"👒假酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/77.jar"},
 {"key":"在线之家","name":"🏠在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"在线之家","name":"🌞在线之家(SP)","type":3,"api":"csp_Zxzj" ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"👒厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"Xifan","name":"☃️稀饭影视(SP)","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://notabug.org/dingding/wdck/raw/master/jar/1.jar"},
 {"key":"csp_剧荒","name":"🎭剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
