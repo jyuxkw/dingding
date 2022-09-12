@@ -95,8 +95,6 @@
 {"key":"Kmys","name":"💢酷猫","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"ASMR","name":"🈲ASMR(优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"*91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"csp_xpath_xxj","name":"新香蕉(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/2024xxj.json"},
-{"key":"*精工厂资源","name":"*精工厂资源","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml","searchable":1,"quickSearch":0},
 {"key":"mtv_pc_养端","name":"T1养端","type":1,"api":"http://cms.nokia.press/vod?rule=养端","searchable": 1,"quickSearch":1,"filterable":0},
 {"key":"csp_AppYsV2_美剧范","name":"🐌美剧范(V2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
 {"key":"csp_xbb_🎥555电影","name":"555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/dingding/wdck/raw/master/json/555%e7%94%b5%e5%bd%b1.json"},
