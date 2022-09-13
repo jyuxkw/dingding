@@ -185,8 +185,9 @@
 
 
 {"key":"csp_xpath_扛把子影院","name":"🦋扛把子影院(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/扛把子影院(xpf).json"},
-{"key":"csp_xpath_007","name":"玲玲七(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://box.qinglin.tk/box/xp/007.json"},
-{"key":"csp_xpath_UM","name":"UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://box.qinglin.tk/box/xp/UM.json"},
+{"key":"csp_xpath_heihu","name":"🦋黑狐 (XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/dingding/wdck/raw/master/json/heihu.json"}, 
+{"key":"csp_xpath_007","name":"🦋玲玲七(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://box.qinglin.tk/box/xp/007.json"},
+{"key":"csp_xpath_UM","name":"🦋UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://box.qinglin.tk/box/xp/UM.json"},
 {"key":"美剧","name":"🦋美剧(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/tae/y/raw/branch/main/x/meiju.json"},
 {"key":"csp_xpath_dyn","name":"🦋电影牛(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/dingding/wdck/raw/master/json/dyn.json"}, {"key":"csp_xpath_扛把子影院","name":"🦋扛把子影院(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/扛把子影院(xpf).json"},
 //{"key":"csp_xp_zxzj2","name":"在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/mwqgxx/gmx/raw/branch/main/sub/MeowXP/zxzj2.json"},
