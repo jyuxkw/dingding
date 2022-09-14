@@ -20,8 +20,6 @@
 
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
-{"name":"🚀特狗影视","url":"https://www.tegouys.com/xgapp.php/v2/"}, 
-{"name":"🚀优视影视","url":"http://app.ysys.asia/lvdou_api.php/v1.vod"}, 
 {"name":"🚀渔渔影视","url":"http://luobo.yugenye.site/api.php/v1.vod"},
 {"name":"🚀暖光影视","url":"https://app.bl210.com/api.php/v1.vod"},
 {"name":"🚀52看剧(萝卜)","url":"http://tool.xxmlb.com/qingdoujiekou.php/v1.vod"},
