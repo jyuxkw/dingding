@@ -121,12 +121,10 @@
 "beiyongjiexi": [
 {"name":"解析1","url":"https://jx.xmflv.com/?url="},
 {"name":"左岸","url":"https://jx.bozrc.com:4433/player/?url="},
-{"name":"解析2","url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"解析3","url":"https://www.pangujiexi.com/pangu/?url="},
 {"name":"未知","url":"http://106.52.218.221:88/?url="}, 
 {"name":"fuqi","url":"https://play.fuqizhishi.com/maotv?url="}, 
 {"name":"油果", "url":"http://json.youguo520.top/fufeng/?url="}, 
-{"name":"4433解析","url":"https://jx.bozrc.com:4433/player/?url="}, 
 {"name":"293-2","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="}, 
 {"name":"tvjx1","url":"http://42.157.129.28:5612/tvjx/?url="}, 
 {"name":"tvjx2","url":"http://120.233.84.226:5612/tvjx/?url="}, 
