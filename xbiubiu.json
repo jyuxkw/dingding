@@ -20,7 +20,6 @@
 
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
-{"name":"🚀渔渔影视","url":"http://luobo.yugenye.site/api.php/v1.vod"},
 {"name":"🚀暖光影视","url":"https://app.bl210.com/api.php/v1.vod"},
 {"name":"🚀52看剧(萝卜)","url":"http://tool.xxmlb.com/qingdoujiekou.php/v1.vod"},
 {"name":"🚀影库","url":"https://yingkudy.com/lvdou_api.php/v1.vod"},
@@ -30,7 +29,8 @@
 {"name":"🚀冷视TV","url":"https://len.tv/api.php/v1.vod"},
 {"name":"🚀万能影院","url":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
 {"name":"🚀蜗牛动漫","url":"http://woniudm.woniu.cyou:20000/mogai_api.php/v1.vod"},
-{"name":"🚀小鸟动漫","url":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"}
+{"name":"🚀小鸟动漫","url":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
+{"name":"🚀渔渔影视","url":"http://luobo.yugenye.site/api.php/v1.vod"}
 ],
 
 //填写采集接口
