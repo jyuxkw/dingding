@@ -55,6 +55,7 @@
 {"key":"在线之家","name":"🏠在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"在线之家","name":"🌞在线之家(SP)","type":3,"api":"csp_Zxzj" ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"👒厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Xifanys","name":"☃️稀饭影视(SP)","type":3,"api":"csp_Xifanys","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://stevenfang.github.io/xifan.jar;md5;bf399b7093d34261f759be43e04232ed"},
 //{"key":"Xifan","name":"☃️稀饭影视(SP)","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://notabug.org/dingding/wdck/raw/master/jar/1.jar"},
 {"key":"csp_剧荒","name":"🎭剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_dd5555","name":"5️⃣️555影视(SP)","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
