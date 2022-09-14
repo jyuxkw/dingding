@@ -57,6 +57,8 @@
 //填写采集接口
 "caijizhan": [
 {"name":"🍇酷云77","url":"http://api.kunyu77.com/api.php"},
+{"name":"🍇晓辉资源","url":"https://www.xhzy01.com/api.php"},
+{"name":"🍇老子采集","url":"http://cj.lziapi.com/api.php"},
 {"name":"🍇诺讯采集","url":"http://caiji.nxflv.com/api.php"},
 {"name":"🍇小熊影视","url":"http://xxtv.lanrentk.cc/api.php/iptv/vod/"},
 {"name":"🍇1080资源库","url":"https://api.1080zyku.com/inc/api_mac10.php"},
