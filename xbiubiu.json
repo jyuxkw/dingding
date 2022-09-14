@@ -57,6 +57,7 @@
 //填写采集接口
 "caijizhan": [
 {"name":"🍇酷云77","url":"http://api.kunyu77.com/api.php"},
+{"name":"🍇多多资源","url":"https://www.ddzyz1.com/api.php"},
 {"name":"🍇晓辉资源","url":"https://www.xhzy01.com/api.php"},
 {"name":"🍇老子采集","url":"http://cj.lziapi.com/api.php"},
 {"name":"🍇诺讯采集","url":"http://caiji.nxflv.com/api.php"},
@@ -71,7 +72,6 @@
 {"name":"🍇TOM资源","url":"https://api.tomcaiji.com/api.php"},
 {"name":"🍇快车资源","url":"https://caiji.kczyapi.com/api.php"},
 {"name":"🍇松鼠资源","url":"https://m3u8.songshuzy.com/api.php"},
-{"name":"🍇多多资源","url":"https://www.ddzyz1.com/api.php"},
 {"name":"🍇FOX资源","url":"https://api.foxzyapi.com/api.php"},
 {"name":"🍇量子资源","url":"http://cj.lziapi.com/api.php"},
 {"name":"🍇番茄资源","url":"http://api.fqzy.cc/api.php"},
@@ -114,37 +114,15 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
-{"name":"解析1","url":"https://jisu.rongxingvr.top/api/rxm3u8.php?key=2eCcARLRUqfPeuoX3B&url="},
-{"name":"解析2","url":"http://110.42.2.115:880/analysis/json/?uid=2288&my=cilnvzELRTVWX03456&url="},
-{"name":"解析3","url":"https://jx.dgdgg.cn/api/?key=Os908eQBVXCwdvBlI7&url="},
-{"name":"解析4","url":"http://jx1920.chwain.com/home/api?type=ys&uid=87711&key=bdrsuvzBMQTVWX0567&url="},
-{"name":"解析5","url":"https://jisu.rongxingvr.top/api/?key=2eCcARLRUqfPeuoX3B&url="},
-{"name":"解析6","url":"http://123.56.222.84:2025/iphones/100.php?url="}, 
-{"name":"解析7","url":"http://tgjx.itcker.com/api/?key=u7eWwiakUR1L6KS4sj&url="},
-{"name":"解析8","url":"https://jisu.rongxingvr.top/api/rxm3u8.php?key=JGM0Kc1Sz0xCJnRMcY&url="},
-{"name":"解析9","url":"http://124.222.68.182/jiexi/4kJX.php/?url="},
-{"name":"解析10","url":"https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url="},
-{"name":"解析11","url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
-{"name":"解析12","url":"http://qiqi.520say.cn/json/dd.php?url="}
+{"name":"融兴","url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="}
 ],
 
 //备用解析是常规格式的解析
 "beiyongjiexi": [
 {"name":"解析1","url":"https://jx.xmflv.com/?url="},
-{"name":"解析2","url":"https://www.pangujiexi.com/pangu/?url="},
-{"name":"解析3","url":"https://jx.7kjx.com/?url="},
-{"name":"解析4","url":"https://jx.kujiexi.net/m3u8.php?url="},
-{"name":"解析5","url":"http://jx.ykyunbo.com/m3u8.php?url="},
-{"name":"解析6","url":"https://jx.parwix.com:4433/player/?url="},
-{"name":"解析7","url":"https://jx.parwix.com:4433/player/analysis.php?v="},
-{"name":"解析8","url":"http://1.117.152.239:39000/?url="},
-{"name":"解析9","url":"http://api.diliktv.xyz/vip/jx.php?url="},
-{"name":"解析10","url":"https://nbjx.vip/?url="},
-{"name":"解析11","url":"https://jx.blbo.cc:4433/?url="},
-{"name":"解析12","url":"https://www.nxflv.com/?url="},
-{"name":"解析13","url":"http://tgjx.itcker.com/api/?key=u7eWwiakUR1L6KS4sj&url="},
-{"name":"解析14","url":"https://jx.blbo.cc:4433/?url="},
-{"name":"解析15","url":"https://m3u8.look4you.top/?url="}
+{"name":"左岸","url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"解析2","url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"解析3","url":"https://www.pangujiexi.com/pangu/?url="}
 ],
 
 //填写电视直播的接口链接
