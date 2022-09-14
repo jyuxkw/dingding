@@ -90,6 +90,7 @@
 {"key":"csp_AppYsV2_美剧范","name":"🐌美剧范(V2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
 {"key":"csp_xbb_🎥555电影","name":"555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/dingding/wdck/raw/master/json/555%e7%94%b5%e5%bd%b1.json"},
 {"key":"9E03","name":"🏖9E03影视(V2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/pancheng/suantangyu/raw/branch/main/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0712.jar","ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_amhys","name":"🌭爱麻花影院(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.jiexi.work/qingdoujiekou.php/v1.vod"},
 {"key":"mtv_zh_刺猬影视","name":"🦔刺猬影视(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
 {"key":"1080资源库","name":"🎨1080资源库(切)🎨","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
 {"key":"爱酷","name":"📺爱酷(V2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
