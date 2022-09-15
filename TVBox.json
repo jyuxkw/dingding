@@ -36,7 +36,7 @@
 {"key":"csp_BBB1","name":"💃美女","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://pan.szfx.top/down.php/32513daeb15d6e0f10f9cdca41be1798.txt"},
 {"key":"女团热舞","name":"🅱女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/gxwz911/box/-/raw/master/Json/女团热舞.json"},
 {"key":"csp_XYQBiu_聚合短视频","name":"🍀聚合短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/聚合短视频.js"},
-{"key":"csp_biubiu_ting","name":"🌿听书网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/Yoursmile/TVBox/raw/branch/main/sub/tingshu.json"},
+{"key":"小说听书","name":"🌞小说听书","type":3,"api":"csp_XBiubiu" ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/gxwz911/box/-/raw/master/Json/小说听书.json"},
 //{"key":"T4","name":"T4爬虫","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"我的豆瓣","name":"🍀我的豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=262163036","searchable":1,"quickSearch":1, "filterable":0}, 
 {"key":"感谢桉佬","name":"榜单荐片（桉佬T4）","type":4,"api":"https://t4.secan.icu/vod?sites=voflix,bdys01,onelist&timeout=6","searchable":1,"quickSearch":1,"filterable":0},
