@@ -231,7 +231,7 @@
 {"key":"csp_xpath_yinghua","name":"🦋樱花动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/yinghua2.json"},
 {"key":"csp_xpath_17skr","name":"🦋路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/17skr.json"},
 {"key":"csp_xpath_bttwoo","name":"🦋两个BT(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/bttwoo.json"},
-{"key":"csp_xpath_wanmeikk","name":"🦋完美看看(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/wanmeikk.json"},
+{"key":"csp_xpath_wanmeikk","name":"🦋完美看看(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/dingding/wdck/raw/master/json/wmkk.json"},
 {"key":"csp_xpath_saohuotv","name":"🦋骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/saohuotv2.json"},
 {"key":"csp_xpath_lezhutv","name":"🦋乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/lezhutv.json"},
 {"key":"csp_xpath_zaixiandianying8","name":"🦋在线电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/zaixiandianying8.json"},
