@@ -551,6 +551,69 @@
 "bflianjiehou": "\""
 },
 {
+  "name": "4K电影网",
+  "url": "https://www.4kdyw.cn", 
+  "tihuan": "cnzz.com", 
+  "User": "空", 
+  //"User": "User-Agent:Dart/2.14 (dart:io)",
+  "shouye": "1",
+  "fenlei": "国产剧$/vodshow/13--------#港台剧$/vodshow/14--------#日韩剧$/vodshow/15--------#欧美剧$/vodshow/16--------#电视剧(B站)$/vodshow/45--------#纪录片$/vodshow/24--------#纪录片(B站)$/vodshow/46--------#日本动漫$/vodshow/21--------#国产动漫$/vodshow/20--------#欧美动漫$/vodshow/22--------#动漫电影$/vodshow/25--------#番剧(B站)$/vodshow/42--------#国创(B站)$/vodshow/43--------#综艺$/vodshow/3--------#动作片$/vodshow/6--------#喜剧片$/vodshow/7--------#爱情片$/vodshow/8--------#科幻片$/vodshow/9--------#恐怖片$/vodshow/10--------#剧情片$/vodshow/11--------#战争片$/vodshow/12--------#犯罪片$/vodshow/27--------#灾难片$/vodshow/28--------#历史片$/vodshow/29--------#传记片$/vodshow/30--------#歌舞片$/vodshow/47--------#电影(B站)$/vodshow/44--------", 
+  "houzhui": "---.html", 
+  "shifouercijiequ": "0", 
+  "jiequqian": "空", 
+  "jiequhou": "空", 
+  "jiequshuzuqian": "class=\"module-item-pic", 
+  "jiequshuzuhou": "/div></div><div class=\"module-item\"", 
+  "tupianqian": "data-src=\"", 
+  "tupianhou": "\"", 
+  "biaotiqian": "title=\"", 
+  "biaotihou": "\"", 
+  "lianjieqian": "href=\"", 
+  "lianjiehou": "\"", 
+  "fubiaotiqian": "module-item-text\">",
+  "fubiaotihou": "<",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/voddetail/", 
+  "ssmoshi": "0",
+  "sousuoshifouercijiequ": "0",
+  "jspic": "pic",
+  "jsname": "name",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "id=\"sort-item", 
+  "bfjiequshuzuhou": "</div>",
+  "zhuangtaiqian": "集数：</span><div class=\"video-info-item\">",
+  "zhuangtaihou": "</div>", 
+  "daoyanqian": "导演：</span>", 
+  "daoyanhou": "</div>", 
+  "zhuyanqian": "主演：</span>", 
+  "zhuyanhou": "</div>", 
+  "juqingqian": "vod_content\"><span>", 
+  "juqinghou": "</span>", 
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空", 
+  "bfyjiequhou": "空", 
+  "bfyjiequshuzuqian": "<a", 
+  "bfyjiequshuzuhou": "/a>", 
+  "bfbiaotiqian": "span>", 
+  "bfbiaotihou": "</span", 
+  "bflianjieqian": "href=\"", 
+  "bflianjiehou": "\""
+},
+{
 "name": "大米星球",
 "url": "https://dmxq.info",
 "ua":"Mozilla/5.0 (Linux; U; Android 9; zh-CN; Redmi Note 5 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 UCBrowser/13.1.9.1099 Mobile Safari/537.36",
@@ -630,10 +693,8 @@
   "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
   "User": "空", //这个不用动，是个别网站播放需要请求头时才用到
   "shouye": "1",
-
   "fenlei": "电影$/vodshow/20--------#电视剧$/vodshow/21--------#动漫$/vodshow/22--------#综艺$/vodshow/23--------#Netflix(剧)$/vodshow/21---Netflix-----#国产剧$/vodshow/21-大陆-------#韩国剧$/vodshow/21-韩国-------#美国剧$/vodshow/21-美国-------#英国剧$/vodshow/21-英国-------#泰国剧$/vodshow/21-泰国-------#日本剧$/vodshow/21-日本-------#香港剧$/vodshow/21-香港-------#台湾剧$/vodshow/21-台湾-------#Netflix(片)$/vodshow/20---Netflix-----#仙侠片$/vodshow/20---仙侠-----#剧情片$/vodshow/20---剧情-----#科幻片$/vodshow/20---科幻-----#动作片$/vodshow/20---动作-----#喜剧片$/vodshow/20---喜剧-----#爱情片$/vodshow/20---爱情-----#冒险片$/vodshow/20---冒险-----#儿童片$/vodshow/20---儿童-----#歌舞片$/vodshow/20---歌舞-----#音乐片$/vodshow/20---音乐-----#奇幻片$/vodshow/20---奇幻-----#动画片$/vodshow/20---动画-----#恐怖片$/vodshow/20---恐怖-----#惊悚片$/vodshow/20---惊悚-----#战争片$/vodshow/20---战争-----#传记片$/vodshow/20---传记-----#纪录片$/vodshow/20---纪录-----#犯罪片$/vodshow/20---犯罪-----#悬疑片$/vodshow/20---悬疑-----#西部片$/vodshow/20---西部-----#灾难片$/vodshow/20---灾难-----#古装片$/vodshow/20---古装-----#武侠片$/vodshow/20---武侠-----#家庭片$/vodshow/20---家庭-----#短片$/vodshow/20---短片-----#运动片$/vodshow/20---运动-----#青春片$/vodshow/20---青春-----#同性片$/vodshow/20---同性-----#励志片$/vodshow/20---励志-----#历史片$/vodshow/20---历史-----", //网站列表的分类
   "houzhui": "---.html", //网站翻页链接的后缀
-
   "shifouercijiequ": "1", //截取的列表数组是否需要二次截取，0不需要，1需要
   "jiequqian": "class=\"module-items", //不需要二次截取就填空
   "jiequhou": "class=\"fixedGroup", //不需要二次截取就填空
@@ -647,7 +708,6 @@
   "fubiaotihou": "</div>",
   "lianjieqian": "href=\"", //列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
   "lianjiehou": "\"", //列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
-
   //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
@@ -680,7 +740,6 @@
   "bfjiequhou": "空",
   "bfjiequshuzuqian": "class=\"module-play-list\"", //播放截取的列表数组的前关键词
   "bfjiequshuzuhou": "</div>", //播放截取的列表数组的后关键词
-
   "zhuangtaiqian": "<span class=\"module-info-item-title\">备注：", //状态前关键词
   "zhuangtaihou": "</div>", //状态后关键词
   "daoyanqian": "导演：</span>", //导演前关键词
@@ -689,7 +748,6 @@
   "zhuyanhou": "</div>", //主演后关键词
   "juqingqian": "<div class=\"module-info-item module-info-introduction\">", //剧情前关键词
   "juqinghou": "</p>", //剧情后关键词
-
   "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
   "bfyjiequqian": "空", //不需要二次截取就填空
   "bfyjiequhou": "空", //不需要二次截取就填空
