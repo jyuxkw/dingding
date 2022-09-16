@@ -15,7 +15,8 @@
 {"key":"历史","title":"历史","pic":"http://img.netbian.com/file/2016/0515/8c83c69d4a605e07c3af9a7e205798e6.gif"},
 {"key":"收藏","title":"收藏","pic":"http://img.netbian.com/file/2016/0515/eb19c1d2290247d5a9a1f12afca96914.gif"},
 {"key":"推送","title":"推送","pic":"http://img.netbian.com/file/2021/0324/05cb335cb19890f81dfebe638c2a6dfe.gif"},
-{"key":"轮播","title":"轮播","pic":"http://img.netbian.com/file/2016/0515/a95df86629bbf0b838b93af3788b4d72.gif"}
+{"key":"轮播","title":"轮播","pic":"http://img.netbian.com/file/2016/0515/a95df86629bbf0b838b93af3788b4d72.gif"},
+{"key":"自选网页","title":"🍀在线之家","pic":"http://pic.netbian.com/uploads/allimg/161004/221627-1475590587ba17.jpg","custom":"https://raw.liucn.cc/box/sub/MeowXB/在线之家.json"}
 ],
 
 //填写APP接口，支持以下5种接口格式。
