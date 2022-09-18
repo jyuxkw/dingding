@@ -439,7 +439,23 @@
 		"name": "Json轮询",
 		"type": 2,
 		"url": "Sequence"
-	}, {"name": "蜂鸟","type": 1,"url": "http://vod.98nb.com/newjx/fenniao.php?url=", "ext": {"flag": ["qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "xigua","芒果"], "header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
+	}, 
+	    {"name":"纯净1","type":0,"url":"https://z1.m1907.cn/?jx="},
+    {"name":"B站1","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+    {"name":"8090","type":0,"url":"https://www.8090g.cn/?url="},
+    {"name":"ckmov","type":0,"url":"https://www.ckmov.vip/api.php?url="},
+    {"name":"老板","type":0,"url":"https://vip.laobandq.com/jiexi.php?url="},
+    {"name":"M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+   {"name":"爱酷","type": 1,"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
+	{"name":"☑快速直解","type":1,"url":"https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="},
+	{"name":"☑云you解析","type":1,"url":"https://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="},
+	{"name":"☑乐多解析","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid="},
+
+	   
+	   
+	   
+	   
+	   {"name": "蜂鸟","type": 1,"url": "http://vod.98nb.com/newjx/fenniao.php?url=", "ext": {"flag": ["qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "xigua","芒果"], "header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
     {"name": "图图","type": 1,"url": "http://119.91.206.244:16888/jx/tt.php?url=","ext": {"flag": ["mgtv", "youku", "letv", "sohu", "xigua", "1905"],"header": {"User-Agent": "Dart/2.15(dart:io)"}}},
     {"name": "视界","type": 1,"url": "http://119.91.206.244:16888/jx/ksj.php?url=","ext": {"flag": ["mgtv", "youku", "letv", "sohu", "xigua", "1905"],"header": {"User-Agent": "Dart/2.15(dart:io)"}}},
     {"name": "293","type": 1,"url": "http://119.91.206.244:39999/293.php?url=","ext": {"flag": ["qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果"], "header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
